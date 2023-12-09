@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
- <img align="center" src="https://firebasestorage.googleapis.com/v0/b/social-media-7cc3d.appspot.com/o/common%2Fgiphy.gif?alt=media&token=08513f4d-0b47-46c5-bff3-997ddcc2b3dc" height="100%" width = "100%" />
+ <img align="center" src="(https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" height="100%" width = "100%" />
 </div>
 
 ---
