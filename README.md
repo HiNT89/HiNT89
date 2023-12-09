@@ -17,7 +17,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ###  Contact Me :
 - Phone : 0945711801
 - Gmail : 2001hieunt89@gmail.com
-- CV : hint.id.vn
+- CV : <a href = "hint.id.vn">hint.id.vn</a>
 ---
 
 ###  Languages and Tools :
