@@ -11,8 +11,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I watch foolball and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+---
+###  Contact Me :
+- Phone : 0945711801
+- Gmail : 2001hieunt89@gmail.com
 ---
 
 ###  Languages and Tools :
