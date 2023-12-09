@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  
  <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height = "200"  width = "200" />
 </div>
 
@@ -17,7 +16,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ###  Contact Me :
 - Phone : 0945711801
 - Gmail : 2001hieunt89@gmail.com
-- CV : <a href = "https://hint.id.vn/" target="_blank">hint.id.vn</a>
+- CV : <a href = "" target="_blank">hint.id.vn</a>
 ---
 
 ###  Languages and Tools :
