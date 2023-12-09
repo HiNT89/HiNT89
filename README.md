@@ -11,7 +11,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I watch foolball and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook Badge](https://drive.google.com/drive/u/0/folders/1S76FCzspZTcF4JDaW1wPsWA0f4zGdFmT)]((https://www.facebook.com/ntt.starup/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
