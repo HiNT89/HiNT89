@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="(https://drive.google.com/drive/u/0/folders/1S76FCzspZTcF4JDaW1wPsWA0f4zGdFmT)" width="100"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/social-media-7cc3d.appspot.com/o/common%2Fgiphy.gif?alt=media&token=08513f4d-0b47-46c5-bff3-997ddcc2b3dc" width="100"/>
 </div>
 
 ---
