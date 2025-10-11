@@ -1,228 +1,40 @@
-<div align="center"><div align="center">
+<div align="center"><div align="center"><div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello!+I'm+HiNT+%F0%9F%91%8B;Fullstack+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Passionate+about+Web+Development+%F0%9F%9A%80" alt="Typing SVG" />
+</div><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" width="200" alt="Coding Animation"/> </div></div>
 
-  <h1>👋 Hello! I'm HiNT</h1>  <h1>👋 Hello! I'm HiNT</h1>
+<h2>Fullstack developer</h2>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" width="200" alt="Coding Animation"/> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" width="200" alt="Coding Animation"/>
 
-</div></div>
+I've been learning to code for 2 years, after switching careers. I started with ReactJS, but have really found a passion for backend and mobile development.
 
----
+* 🌍  I'm based in Ha Noi, Viet Nam
+* 🖥️  See my portfolio at [cv.hint.id.vn](http://cv.hint.id.vn)
+* ✉️  You can contact me at [hieunt8901@gmail.com](mailto:hieunt8901@gmail.com)
+* 🚀  I'm currently working on [Basao](http://Basao.com)
+* 🧠  I'm currently learning Expo
+* 👥  I'm looking to collaborate on Interesting projects
 
-## 🚀 About Me## 🚀 About Me
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> **Frontend Developer from Vietnam**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> **Frontend Developer from Vietnam**
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" alt="Native" title="Native" width="36" height="36" />
+</p>
 
-- 🔭 I'm working as a **Software Engineer** contributing to frontend and building web applications- 🔭 I'm working as a **Software Engineer** contributing to frontend and building web applications
+### Socials
 
-- 🌱 Currently exploring **Technical Content Writing**- 🌱 Currently exploring **Technical Content Writing**
+<p align="left"> <a href="https://www.github.com/HiNT89" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/HiNT89" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.threads.net/@hint_1108" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.youtube.com/@hint1108" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/ntt.starup" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/HiNT89" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/HiNT89?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
+### Badges
 
-- ⚡ In my free time, I watch **football** and read tech articles- ⚡ In my free time, I watch **football** and read tech articles
+<b>My GitHub Stats</b>
 
-- 💼 Passionate about creating amazing user experiences- 💼 Passionate about creating amazing user experiences
+<a href="http://www.github.com/HiNT89"><img src="https://github-readme-stats.vercel.app/api?username=HiNT89&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="HiNT89's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/HiNT89"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HiNT89&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## 📫 Contact Me## 📫 Contact Me
+<a href="https://github.com/HiNT89" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNT89&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center"><div align="center">
+<b>Top Repositories</b>
 
-[![Phone](https://img.shields.io/badge/Phone-0945711801-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:0945711801)[![Phone](https://img.shields.io/badge/Phone-0945711801-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:0945711801)
-
-[![Gmail](https://img.shields.io/badge/Gmail-hieunt8901@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieunt8901@gmail.com)[![Gmail](https://img.shields.io/badge/Gmail-hieunt8901@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieunt8901@gmail.com)
-
-</div></div>
-
----
-
-## 🛠️ Languages and Tools## 🛠️ Languages and Toolsign="center">
-
-<img
-
-<div align="center">    align="center"
-
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-
-### Frontend Technologies height="200"
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; width="200"
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp; />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;</div>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>--- ### About Me : I am a Front End Developer
-
-<img
-
-### Languages & Core Technologies src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; width="30"
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;from VietNam. - :telescope: I’m working as a Software Engineer and contributing
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>to frontend for building web applications. - :seedling: Exploring Technical
-
-Content Writing. - :zap: In my free time, I watch foolball and read tech
-
-### Backend & Infrastructurearticles. --- ### Contact Me : - Phone : 0945711801 - Gmail :
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;hieunt8901@gmail.com --- ### Languages and Tools :
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;<div>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/pm2/pm2-original-wordmark.svg" title="PM2" alt="PM2" width="40" height="40"/>&nbsp; <img
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> title="React"
-
-    alt="React"
-
-</div>    width="40"
-
-    height="40"
-
---- />&nbsp;
-
-<img
-
-## 📊 GitHub Stats src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg"
-
-    title="Git"
-
-<div align="center">    **alt="Git"
-
-<img src="https://github-readme-stats.vercel.app/api?username=HiNT89&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/> width="40"
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNT89&layout=compact&theme=radical" alt="Top Languages" height="150"/> height="40"
-
-</div>  />&nbsp;
-
-<img
-
---- src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
-
-    title="Git"
-
-## 🏆 GitHub Trophies \*\*alt="Git"
-
-    width="40"
-
-<div align="center">    height="40"
-
-<img src="https://github-profile-trophy.vercel.app/?username=HiNT89&theme=radical&row=1&column=7" alt="GitHub Trophies"/> />&nbsp;
-
-</div>  <img
-
-    src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
-
---- title="Git"
-
-    **alt="Git"
-
-## 📈 Contribution Graph width="40"
-
-    height="40"
-
-<div align="center">  />&nbsp;
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiNT89&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/> <img
-
-</div>    src="https://github.com/devicons/devicon/blob/master/icons/pm2/pm2-original-wordmark.svg"
-
-    title="Git"
-
---- \*\*alt="Git"
-
-    width="40"
-
-<div align="center">    height="40"
-
-<img src="https://komarev.com/ghpvc/?username=HiNT89&color=brightgreen" alt="Profile views"/> />&nbsp;
-
-    <img
-
-**Thank you for visiting my profile! 🚀** src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg"
-
-      title="Git"
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> \*\*alt="Git"
-
-</div>    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-    title="Material UI"
-    alt="Material UI"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-    title="Redux"
-    alt="Redux "
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-    title="CSS3"
-    alt="CSS"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-    title="HTML5"
-    alt="HTML"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-    title="JavaScript"
-    alt="JavaScript"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
-    title="Firebase"
-    alt="Firebase"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-    title="NodeJS"
-    alt="NodeJS"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-    title="Git"
-    **alt="Git"
-    width="40"
-    height="40"
-  />
-</div>
-<!--
-**HiNT89/HiNT89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<div width="100%" align="center"><a href="https://github.com/HiNT89/zing-mp3-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HiNT89&repo=zing-mp3-clone&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HiNT89/nextjs_social_media" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HiNT89&repo=nextjs_social_media&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
