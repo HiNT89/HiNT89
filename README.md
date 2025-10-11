@@ -8,6 +8,7 @@
 I've been learning to code for 2 years, after switching careers. I started with ReactJS, but have really found a passion for backend and mobile development.
 
 * 🌍  I'm based in Ha Noi, Viet Nam
+*  Phone Number : 0945711801
 * 🖥️  See my portfolio at [cv.hint.id.vn](http://cv.hint.id.vn)
 * ✉️  You can contact me at [hieunt8901@gmail.com](mailto:hieunt8901@gmail.com)
 * 🚀  I'm currently working on [Basao](http://Basao.com)
