@@ -13,10 +13,9 @@
 **Fullstack Developer** passionate about creating innovative web and mobile applications. I've been coding for 2 years after switching careers, starting with ReactJS and discovering a deep passion for backend and mobile development.
 
 - 🌍 **Location:** Ha Noi, Viet Nam
-- 📱 **Phone:** 0945711801
+- 📱 **Phone:** 0962611801
 - 🖥️ **Portfolio:** [hint.pro.vn](http://hint.pro.vn/)
-- ✉️ **Email:** [hieunt8901@gmail.com](mailto:hieunt8901@gmail.com)
-- 🚀 **Currently Working On:** [Basao](http://Basao.com)
+- ✉️ **Email:** [hint.work01@gmail.com](mailto:hint.work01@gmail.com)
 - 🧠 **Currently Learning:** Expo
 - 👥 **Open to Collaborate:** On interesting projects
 
